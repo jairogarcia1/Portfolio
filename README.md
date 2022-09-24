@@ -1,2 +1,1 @@
-# AWS-projects
-AWS project ideas
+# Portfolio
