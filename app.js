@@ -14,7 +14,7 @@ function PageTransitions() {
         })
     }
 
-    //Sections Active class
+    //sections active class
     allSections.addEventListener('click', (e) =>{
         const id = e.target.dataset.id;
         if(id){
